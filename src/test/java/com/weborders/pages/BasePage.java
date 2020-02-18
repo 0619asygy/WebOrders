@@ -11,6 +11,7 @@ import java.util.List;
 
 public abstract class BasePage {
     // something happened
+    // second something
 
     @FindBy(tagName = "h1")
     private WebElement pageLogo;
