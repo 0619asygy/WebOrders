@@ -10,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.List;
 
 public abstract class BasePage {
+    // something happened
 
     @FindBy(tagName = "h1")
     private WebElement pageLogo;
