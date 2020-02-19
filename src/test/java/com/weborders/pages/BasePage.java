@@ -22,6 +22,10 @@ public abstract class BasePage {
     public BasePage() {
         //it's coming from selenium webdriver
         //to enable @FindBy annotation
+        //for practice
+        // Now I am waiting aysegul branch
+        //kdlfjsdklhsdkghdkghk
+
         PageFactory.initElements(Driver.get(), this);
     }
 
